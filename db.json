@@ -1,0 +1,89 @@
+{
+  "hello": {
+    "message": "hello"
+  },
+  "policy": {
+    "policyInfo": {
+      "policyNumber": "ABC123456",
+      "policyType": "Car Insurance",
+      "policyProviderName": "XYZ Insurance Company",
+      "policyholder": "John Doe",
+      "insured": "John and Jane Doe",
+      "effectiveDate": "2024-01-01",
+      "expirationDate": "2025-01-01"
+    },
+    "financialInfo": {
+      "premium": 1934,
+      "coverage": 200000,
+      "deductible": 1000
+    },
+    "vendorInfo": {
+      "companyName": "XYZ Vendor Solutions",
+      "companyEmail": "contact@xyzvendorsolutions.com",
+      "companyAddress": "456 Oak Avenue, Anycity, USA",
+      "renewalInfo": "Contract renewal every 2 years"
+    }
+  },
+  "hospital": [
+    {
+      "hospitalName": "ABC City General Hospital",
+      "hospitalAddress": "123 Main Street, Anytown, CA 12345",
+      "hospitalEmail": "info@abchospital.com",
+      "hospitalContactInfo": "(555) 555-1212"
+    },
+    {
+      "hospitalName": "XYZ Medical Center",
+      "hospitalAddress": "456 Elm Street, Anytown, CA 12345",
+      "hospitalEmail": "contact@xyzmedicalcenter.com",
+      "hospitalContactInfo": "(555) 555-3434"
+    },
+    {
+      "hospitalName": "Maple Street Clinic",
+      "hospitalAddress": "789 Maple Street, Anytown, CA 12345",
+      "hospitalEmail": "appointments@maplestreetclinic.com",
+      "hospitalContactInfo": "(555) 555-5656"
+    },
+    {
+      "hospitalName": "Hilltop Community Hospital",
+      "hospitalAddress": "1011 Hilltop Drive, Anytown, CA 12345",
+      "hospitalEmail": "admin@hilltopcommunityhospital.org",
+      "hospitalContactInfo": "(555) 555-7878"
+    },
+    {
+      "hospitalName": "Lakeview Medical Associates",
+      "hospitalAddress": "1213 Lakeview Boulevard, Anytown, CA 12345",
+      "hospitalEmail": "info@lakeviewmedicalassociates.com",
+      "hospitalContactInfo": "(555) 555-0101"
+    },
+    {
+      "hospitalName": "Sunshine Family Practice",
+      "hospitalAddress": "1415 Sunshine Avenue, Anytown, CA 12345",
+      "hospitalEmail": "appointments@sunshinefamilypractice.com",
+      "hospitalContactInfo": "(555) 555-2323"
+    },
+    {
+      "hospitalName": "Riverside Urgent Care",
+      "hospitalAddress": "1617 Riverside Lane, Anytown, CA 12345",
+      "hospitalEmail": "urgentcare@riversidesideurgentcare.com",
+      "hospitalContactInfo": "(555) 555-4545"
+    },
+    {
+      "hospitalName": "Midtown Children's Hospital",
+      "hospitalAddress": "1819 Midtown Avenue, Anytown, CA 12345",
+      "hospitalEmail": "info@midtownchildrenshospital.com",
+      "hospitalContactInfo": "(555) 555-6767"
+    },
+    {
+      "hospitalName": "Ocean View Medical Group",
+      "hospitalAddress": "2021 Ocean View Drive, Anytown, CA 12345",
+      "hospitalEmail": "contact@oceanviewmedicalgroup.net",
+      "hospitalContactInfo": "(555) 555-8989"
+    },
+    {
+      "hospitalName": "Central Park Family Clinic",
+      "hospitalAddress": "2223 Central Park Road, Anytown, CA 12345",
+      "hospitalEmail": "appointments@centralparkfamilyclinic.com",
+      "hospitalContactInfo": "(555) 555-1111"
+    }
+  ]
+}
